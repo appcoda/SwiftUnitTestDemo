@@ -6,4 +6,4 @@ Luckily for you, Xcode 7 and Swift support Unit Testing. Although Unit Testing d
 
 For the full tutorial, please refer to the link below:
 
-http://www.appcoda.com/unit-test-swift/
+http://www.appcoda.com/unit-testing-swift/
